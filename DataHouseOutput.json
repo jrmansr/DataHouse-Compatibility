@@ -1,0 +1,33 @@
+{
+	
+	"newArray" : [
+	
+		{
+			"name" : "Amelia", 
+			"EQ" : 7, 
+			"IQ" : 9,
+			"Compat" : 0.1
+			
+		},
+		
+		{
+			"name" : "James", 
+			"EQ" : 2, 
+			"IQ" : 8,
+			"Compat" : 0.5
+		},
+		
+		{
+			"name" : "Jenna", 
+			"EQ" : 9, 
+			"IQ" : 9,
+			"Compat" : 0.6
+		}
+		
+		
+		
+		
+	]
+	
+}
+	

@@ -1,0 +1,43 @@
+{
+
+	"arrayOfEmp" : [
+		{
+			"name" : "Zoe", 
+			"EQ" : 9, 
+			"IQ" : 10
+		},
+		
+		{
+			"name" : "Lia", 
+			"EQ" : 9, 
+			"IQ" : 9
+		}, 
+		
+		{ 
+			"name" : "Eloise", 
+			"EQ" : 9, 
+			"IQ" : 5
+		}
+	], 
+	
+	"arrayOfHires" : [
+		{
+			"name" : "Jenna", 
+			"EQ" : 9, 
+			"IQ" : 9
+		},
+		
+		{
+			"name" : "Amelia", 
+			"EQ" : 7, 
+			"IQ" : 9
+		},
+		
+		{
+			"name" : "James", 
+			"EQ" : 2, 
+			"IQ" : 8
+		},
+	]
+}
+	
