@@ -13,10 +13,11 @@ The object type person has two formats:
 
 IQ respresents a person's intelligence and EQ represents a person's emotional intelligences
 
-The project calls two methods which get the average IQ and EQ of all current employees. 
-Next, the array of potential hires is compared to the average IQ and EQ and returns a comptability score. 
-The array is then reordered using the insertion sort method.
-Lastly, the array is entered into a new array. 
+Sequence of Events 
+1. Project invokes two functions to calculate the average IQ and EQ of the existing employees
+2. IQ and EQ scores of potential hires are compared with the averages to determine their compatibility score
+3. Potential hires' array is sorted using the insertion sort algorithm 
+4. Sorted array is added to a new array
 
 	
 ## Technologies
